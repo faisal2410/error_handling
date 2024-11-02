@@ -42,3 +42,171 @@ Agenda
 
 
 */ 
+
+
+
+/*
+
+3.Title: Mastering Custom Error Handling in PHP OOP
+
+Agenda
+
+1.Introduction to Custom Error Messages in PHP
+2.Creating Custom Error Messages with trigger_error()
+3.Using Object-Oriented Programming (OOP) Concepts for Error Handling
+4.Demonstration and Example Code
+
+
+
+*/ 
+
+
+/*
+4.Title: Exception Handling in PHP: A Beginner's Guide to try, catch, and finally in OOP
+
+Agenda:
+
+1.Introduction to Exceptions in PHP
+2.Basic Syntax of try, catch, and finally Blocks
+3.Creating Custom Exception Classes
+4.Using Multiple catch Blocks for Specific Exception Handling
+5.Using the finally Block for Resource Management
+6.Practical Example: Exception Handling in a Database Connection Class
+
+
+*/ 
+
+/*
+
+5.Title: Understanding PHP Exception Hierarchy and the Throwable Interface
+
+Agenda:
+1.Introduction to Error Handling in PHP
+2.Exception Hierarchy in PHP
+3.Understanding the Throwable Interface
+4.The Two Main Branches: Error and Exception
+5.Code Examples: Working with Exception and Error Classes
+6.Conclusion
+
+
+*/ 
+
+/*
+6.Title: Mastering Standard PHP Exception Classes in Object-Oriented Programming
+
+Agenda
+
+1.Understanding PHP Exception Handling Basics
+2.Overview of Standard PHP Exception Classes
+3.Exploring Common Exception Classes
+4.Exception
+5.RuntimeException
+6.InvalidArgumentException
+7.LogicException
+8.Using Exceptions Effectively in Code
+
+
+*/ 
+
+/*
+
+7.Title: Custom Exception Handling in PHP OOP: A Comprehensive Guide
+
+Agenda:
+
+1.Introduction to Exception Handling
+2.Basics of Custom Exception Handling
+3.Creating Custom Exception Classes
+4.Practical Example: Implementing a Custom Exception Class
+5.Best Practices for Custom Exceptions
+
+*/ 
+
+/*
+
+8.Title: Mastering Error Handling in PHP OOP: Converting Errors to Exceptions
+
+Agenda:
+
+1.Introduction to Error Handling in PHP OOP
+2.Understanding the Importance of Converting Errors to Exceptions
+3.Using ErrorException to Handle Traditional PHP Errors as Exceptions
+4.Practical Examples and Code Demonstrations
+
+
+*/ 
+
+/*
+9.Title: Advanced PHP Error and Exception Handling: Exception Hierarchies and Key Error Classes
+
+Agenda
+
+1.Introduction to Exception Hierarchies in PHP
+2.Understanding Specific Error Classes
+3.TypeError
+4.ValueError
+5.ParseError
+6.DivisionByZeroError
+7.Practical Code Examples and Use Cases
+
+*/ 
+
+/*
+10.Title: Mastering Error Handling in PHP OOP: Fatal & Recoverable Errors
+
+Agenda
+
+1.Introduction to PHP Error Types
+2.Handling Fatal Errors in PHP
+3.Handling Recoverable Errors in PHP
+4.Understanding Which Errors Can Be Caught and Which Cannot
+
+*/ 
+
+/*
+
+
+11.Title: Mastering Error Handling in Object-Oriented PHP
+
+Agenda:
+
+1.Introduction to Error Handling in PHP
+2.Why Use Exceptions in PHP OOP?
+3.Creating and Throwing Exceptions in PHP
+4.Custom Exception Classes in PHP
+5.Catching Multiple Exceptions
+6.Best Practices for Exception Handling in PHP OOP
+7.Practical Example: Handling Validation Errors with Custom Exceptions
+8.Conclusion
+
+
+*/ 
+
+/*
+
+12.Title: Mastering Custom Error and Exception Handling in PHP OOP
+
+Agenda:
+
+1.Introduction to Custom Error and Exception Handling in PHP
+2.Using set_exception_handler() to Define Custom Exception Handlers
+3.Creating and Handling Exceptions with Exception and Throwable
+4.Using set_error_handler() to Define Custom Error Handlers
+5.Creating and Handling Errors with Error and Custom Error Levels
+6.Conclusion: Benefits of Custom Error and Exception Handling
+
+
+*/ 
+
+/*
+13.Title: Advanced Error Handling in PHP OOP - Nested and Multiple Try-Catch Blocks with Best Practices
+
+Agenda
+1.Introduction to Error Handling in PHP OOP
+2.Understanding Nested Try-Catch Blocks
+3.Implementing Multiple Catch Blocks
+4.Best Practices for Complex Error Handling with Multiple Exceptions
+5.Summary and Key Takeaways
+
+
+*/ 
