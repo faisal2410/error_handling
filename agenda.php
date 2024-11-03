@@ -28,6 +28,8 @@ Narration: "Finally, let's look at the PHP error constants. PHP has various erro
 
 */ 
 
+
+
 /*
 
 2.Title: Error Logging in PHP Object-Oriented Programming
@@ -208,5 +210,132 @@ Agenda
 4.Best Practices for Complex Error Handling with Multiple Exceptions
 5.Summary and Key Takeaways
 
+
+*/ 
+
+/*
+
+14.Title: Error Handling in Asynchronous PHP with Fibers (PHP 8.1+)
+
+
+Agenda
+1.Introduction to Asynchronous Programming in PHP
+2.What are PHP Fibers?
+3.Setting Up Fibers in PHP
+4.Error Handling in Synchronous vs Asynchronous PHP
+5.Using Fibers for Asynchronous Error Handling
+6.Practical Example: Error Handling in PHP Fibers
+7.Best Practices and Common Pitfalls in Fiber-based Error Handling
+8.Conclusion and Key Takeaways
+
+
+*/ 
+
+/*
+
+15.Title: "Mastering Error and Exception Handling in PHP CLI Applications (OOP Focus)"
+
+Agenda
+1.Introduction to Error and Exception Handling in PHP CLI
+2.Setting Up PHP CLI for Error Handling
+3.Understanding PHP Error Types and Constants
+4.Configuring Error Reporting and Display Options in CLI
+5.Creating Custom Error Handlers in PHP OOP
+6.Implementing Exception Handling in CLI Applications
+7.Logging Errors to a File
+8.Best Practices for Error and Exception Handling in PHP CLI Applications
+Conclusion
+
+
+*/ 
+
+/*
+16.Title: Exception Handling in HTTP Contexts Using PHP Object-Oriented Programming
+
+Agenda
+1.Introduction to Exception Handling in HTTP Contexts
+2.Understanding HTTP-Related Exceptions
+3.Creating Custom HTTP Exception Classes
+4.Handling Exceptions with Try-Catch Blocks
+5.Practical Example: Handling a RequestParseBodyException
+6.Best Practices for HTTP Exception Handling
+
+*/ 
+
+/*
+17.Title: Best Practices for Error Messages and User-Friendly Feedback in PHP OOP
+
+Agenda:
+
+1.Introduction to Error Messages and User Feedback
+2.Principles of Crafting Secure and Informative Error Messages
+3.Using PHP Exception Handling for Better Error Management
+4.Customizing Exception Messages with Object-Oriented PHP
+5.Logging Errors Securely without Revealing Sensitive Information
+6.Providing User-Friendly Error Messages with a Custom Error Handler
+7.Best Practices Summary and Key Takeaways
+
+*/ 
+
+/*
+
+18.Title: Unit Testing Exception Scenarios in PHP OOP: Using PHPUnit for Effective Exception Handling
+
+Agenda:
+
+1.Introduction to Unit Testing Exception Scenarios in PHP
+2.Why Test Exception Scenarios?
+3.Setting Up PHPUnit for Exception Testing
+4.Writing a Basic Exception Test
+5.Using PHPUnit’s expectException Method
+6.Testing Exception Messages and Code
+7.Verifying Custom Exception Classes
+8.Summary and Best Practices
+
+*/ 
+
+/*
+✅❤ Important
+19.Title: Understanding Advanced Exception Hierarchy in PHP Object-Oriented Programming
+
+Agenda
+1.Introduction to PHP Exception Hierarchy
+2.Specific Error Classes Overview
+3.Exploring TypeError with Examples
+4.Understanding ValueError with Practical Scenarios
+5.Using ParseError in PHP
+6.Handling DivisionByZeroError with Real-world Examples
+7.Conclusion and Best Practices for Exception Handling
+*/ 
+
+
+/*
+✅Important
+20.Title: Implementing Logging and Event Standards in PHP: A Guide to PSR-3 and PSR-14
+
+Agenda
+
+1.Introduction to PSR-3 Logging Standard
+2.Implementing PSR-3 in PHP for Error Handling
+3.Creating a Custom Logger with PSR-3
+4.Overview of PSR-14 Event Dispatcher Standard
+5.Creating an Event System with PSR-14 in PHP
+6.Integrating PSR-3 and PSR-14 in Error Handling
+
+*/ 
+
+/*
+✅Important
+21.Title: Advanced Error Handling for Databases and External Services in PHP OOP
+
+Agenda
+1.Overview of Error Handling in PHP OOP
+2.Understanding Database and External Service Errors
+3.Handling PDOException in PHP
+4.Handling SQLite3Exception in PHP
+5.Best Practices for Error Handling in External Services
+6.Creating Custom Exceptions for External Services
+7.Practical Examples and Code Demonstration
+8.Recap and Key Takeaways
 
 */ 
