@@ -339,3 +339,26 @@ Agenda
 8.Recap and Key Takeaways
 
 */ 
+
+/*
+22. Project : Centralized Error Handling System in PHP OOP
+
+
+*/ 
+
+/*
+23. Project Idea : Project Idea : Distributed Service Resilience Manager
+
+*/ 
+
+/*
+24. Title: "Exception Handling and Security in PHP OOP: Protecting Sensitive Information in Error Messages"
+
+Agenda
+1.Introduction to Exception Handling in PHP
+2.Importance of Security in Error Messages
+3.Best Practices for Exception Handling and Security
+4.Custom Exception Classes in PHP
+5.Securing Sensitive Information in Error Messages
+6.Conclusion and Summary
+*/ 
